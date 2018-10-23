@@ -199,7 +199,7 @@
 				</span>
 			</div>
 			<div class="content_section floating_element">
-				<p>Thanks for checking out our website!</p>
+				<p>Thanks for checking out our website! TESTING</p>
 			</div>
 		</div>
 	</body>
