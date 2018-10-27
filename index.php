@@ -199,11 +199,11 @@
 			<div class="page_header floating_element">
 				<img src="/icons/ubuntu-logo.png" alt="Ubuntu Logo" class="floating_element"/>
 				<span class="floating_element">
-					QSCU Store Page Coming Soon! TESTTORINO
+					QSCU Store Page Coming Soon!
 				</span>
 			</div>
 			<div class="content_section floating_element">
-				<p>Thanks for checking out our website! TESTING</p>
+				<p>Thanks for checking out our website! Take 2</p>
 			</div>
 		</div>
 	</body>
