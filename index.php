@@ -40,7 +40,11 @@
     border-color: #212738;
     border-style: solid;
 
+<<<<<<< HEAD
     background-color: #FF00FF;
+=======
+    background-color: #FFFFFF;
+>>>>>>> 6e54f0aca85d89e87b0011807e8c16da6f70126b
 
     text-align: center;
   }
